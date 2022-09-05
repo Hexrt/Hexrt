@@ -1,16 +1,20 @@
-### Hi there 👋
+### This is Hexrt 😄
 
-<!--
-**Hexrt/Hexrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hexrt&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" /></div>  
 
-Here are some ideas to get you started:
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexrt&hide_border=true&layout=compact" align="center" style="width: 70%" /></div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Hexrt&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
